@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "光のロック(Live at 日本武道館 ,2017.12.3)",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T17:54:17.106064Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "光のロック(Live at 日本武道館 ,2017.12.3)",
+      "artist": "Sambomaster",
+      "has_synced": true,
+      "path": "select/01_光のロック(Live_at_日本武道館_,2017.12.3)_Sambomaster.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "光のロック",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_光のロック_サンボマスター.txt"
+    }
+  ]
+}
